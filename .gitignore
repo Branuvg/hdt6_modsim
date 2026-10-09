@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Documentos de Word (no van en el repo)
+*.docx
+~$*.docx
